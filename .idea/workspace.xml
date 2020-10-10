@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5afdbb75-254c-4e7f-a99a-28bebb94124e" name="Default Changelist" comment="" />
+    <list default="true" id="5afdbb75-254c-4e7f-a99a-28bebb94124e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGulp">
       <scroll-view-position x="0" y="0" />
@@ -29,19 +36,24 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1iMoJk6d4F1QPl1BSwMeiTumWzQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="oracle&#10;mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Gulp.js.watch">
@@ -105,12 +117,16 @@
       <workItem from="1601726756420" duration="448000" />
       <workItem from="1601727862395" duration="2952000" />
       <workItem from="1601982775268" duration="1278000" />
-      <workItem from="1602324803580" duration="1087000" />
+      <workItem from="1602324803580" duration="2652000" />
+      <workItem from="1602327645593" duration="3661000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="456" y="276" width="444" height="249" key="#Composer" timestamp="1601726806580">
@@ -125,6 +141,18 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="59" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1601827007302" />
+    <state x="144" y="27" width="1067" height="741" key="CommitChangelistDialog2" timestamp="1602333602398">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="144" y="27" width="1067" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1602333602398" />
+    <state x="461" y="144" width="424" height="520" key="FileChooserDialogImpl" timestamp="1602327701497">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="461" y="144" width="424" height="520" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1602327701497" />
+    <state x="493" y="297" width="380" height="207" key="Github.ShareDialog" timestamp="1602327363739">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="493" y="297" width="380" height="207" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1602327363739" />
     <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1601728446208">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -141,21 +169,33 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601728446207" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1602325894459">
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1602335470457">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1602325894459" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1602335470457" />
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602327963789">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1602327963789" />
     <state x="457" y="89" width="442" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602324916384">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="457" y="89" width="442" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1602324916384" />
+    <state x="464" y="312" width="437" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602333610684">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="464" y="312" width="437" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1602333610684" />
+    <state x="487" y="309" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602327845625">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="487" y="309" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/0.27.1366.741@0.27.1366.741" timestamp="1602327845625" />
     <state x="543" y="253" width="277" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1601728229428">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="543" y="253" width="277" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.27.1366.741@0.27.1366.741" timestamp="1601728229428" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602018154606">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602335028061">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1602018154606" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1602335028061" />
   </component>
 </project>
